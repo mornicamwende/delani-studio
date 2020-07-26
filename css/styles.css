@@ -9,3 +9,9 @@
     text-align: center;
     line-height: 50px;
 }
+.services {
+    background-image: url("../imgs/s_image.jpg");
+    background-size: cover;
+    height: 70vh;
+    text-align: center;
+}
