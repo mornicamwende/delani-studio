@@ -1,7 +1,7 @@
 //what we do
 $(document).ready(function(){
   $("#design-img").click(function(){
-    $("#p1").hide().toggle();
+    $(".p1").hide().toggle();
     $("#design-img").slideUp();
   });
     $(".p1").click(function(){
